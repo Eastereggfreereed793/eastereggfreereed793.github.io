@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -231,4 +230,3 @@
   </main>
   <footer><div class="wrap footer-inner"><span>© Jason P. Terry · University of Oxford</span></div></footer>
 </body>
-</html>
