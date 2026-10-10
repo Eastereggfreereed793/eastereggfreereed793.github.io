@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -200,7 +201,7 @@
         <p class="lead">A few examples spanning observations, computational models, machine learning, and early Solar System constraints. This is a selection rather than a complete bibliography.</p>
       </div>
       <div class="paper-list">
-        <article class="paper"><div class="meta">2026 · Monthly Notices of the RAS</div><h3><a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag1819/8834037" target="_blank" rel="noopener noreferrer">Denoising Interferometric Observations Using Visibility-Informed Neural Networks ↗</a></h3><p>VIREO: using interferometric response information to improve reconstruction of astronomical observations.</p><a class="paperlink" href="https://arxiv.org/abs/2605.14971">Read preprint →</a></article>
+        <article class="paper"><div class="meta">2026 · Monthly Notices of the RAS</div><h3><a href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag1819/8834037" target="_blank" rel="noopener noreferrer">Denoising Interferometric Observations Using Visibility-Informed Neural Networks ↗</a></h3><p>VIREO: using interferometric response information to improve reconstruction of astronomical observations.</p><a class="paperlink" href="https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag1819/8834037">Read preprint →</a></article>
         <article class="paper"><div class="meta">2026 · Earth and Planetary Science Letters</div><h3><a href="https://doi.org/10.1016/j.epsl.2026.119936" target="_blank" rel="noopener noreferrer">A collective trigger for widespread planetesimal formation revealed by accretion ages ↗</a></h3><p>Meteorite records as constraints on the movement of material and the timing of planetesimal formation.</p><a class="paperlink" href="https://doi.org/10.1016/j.epsl.2026.119936">Journal article →</a></article>
         <article class="paper"><div class="meta">2026 · Monthly Notices of the RAS</div><h3><a href="https://doi.org/10.1093/mnras/stag096" target="_blank" rel="noopener noreferrer">Dust morphology under changing dust mass ratios in protoplanetary discs ↗</a></h3><p>Investigating how disk dust content influences the structure traced by observations.</p><a class="paperlink" href="https://doi.org/10.1093/mnras/stag096">Journal article →</a></article>
         <article class="paper"><div class="meta">2023 · The Astrophysical Journal</div><h3><a href="https://doi.org/10.3847/1538-4357/acc737" target="_blank" rel="noopener noreferrer">Kinematic Evidence of an Embedded Protoplanet in HD 142666 Identified by Machine Learning ↗</a></h3><p>Combining learned kinematic signatures with follow-up simulations to investigate a candidate planet in HD 142666.</p><a class="paperlink" href="https://doi.org/10.3847/1538-4357/acc737">Journal article →</a></article>
@@ -230,3 +231,4 @@
   </main>
   <footer><div class="wrap footer-inner"><span>© Jason P. Terry · University of Oxford</span></div></footer>
 </body>
+</html>
